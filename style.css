@@ -9,6 +9,7 @@ body{
     color: #fff;
 }
 
+
 header nav{
     background-color: #212121;
     padding: 20px;
@@ -35,6 +36,7 @@ header nav form{
 form input [type=text]{
     flex-grow: 1;
     margin-right: 10px;
+    
     
 }
 form input [type=text],button[type="submit"] {
@@ -63,6 +65,7 @@ form button[type="submit"]:hover{
     width: 80%;
     padding: 20px;
     place-items: center;
+    
 }
 .recipe{
     display: flex;
